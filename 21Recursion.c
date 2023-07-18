@@ -14,7 +14,7 @@ int main(void)
 {
     int num;
     printf("Program to find the factorialof a number\n");
-    printf("Entrer the number :\n");
+    printf("Entrer the number :");
     scanf("%d", &num);
     printf("The factorial of %d is %d", num, fact(num));
 }
