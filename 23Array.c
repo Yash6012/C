@@ -21,7 +21,7 @@ int main(void)
         printf("The marks scored by Student %d is %d \n", i + 1, marks[i]);
     }
 
-    printf("\n\n\n");
+    printf("\n\n");
     // Example of 2-D array
     // Initaializing a matrix of 3 X 3 size
     int identity[3][3] = {{1, 0, 0},
@@ -38,5 +38,4 @@ int main(void)
         }
         printf("\n");
     }
-    
 }
