@@ -18,6 +18,7 @@ int main(void)
 {
     printf("Tutorial of functions\n");
     int a, b, c, n;
+    // just for fun
     printf("Enter the value of a :\n");
     scanf("%d", &a);
     printf("Enter the value of b :\n");
