@@ -11,7 +11,7 @@ void printstar(int n)
     {
         printf("%c", '*');
     }
-    
+    // random Comment .c
 }
 
 int main(void)
